@@ -1,0 +1,234 @@
+* {
+    box-sizing: border-box;
+
+}
+
+
+
+
+
+
+
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+
+h1 {
+    font-size: 98px;
+
+    margin: 0;
+
+}
+
+.banner-img {
+    background-image: url(licensed-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+}
+
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+
+    transform: translate(-50%, -50%);
+
+    padding: 40px 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    font-weight: 400;
+
+
+}
+
+a {
+    text-decoration: none;
+    background-color: brown;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 300;
+    padding: 10px 10px 10px 10px;
+}
+
+.center {
+
+    color: rgb(122, 122, 122);
+}
+
+.centter {}
+
+.ceenter {
+    font-size: 50px;
+
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+.color {
+    color: rgb(143, 143, 143);
+}
+
+.box {
+
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: Arial;
+    color: rgb(122, 122, 122));
+    text-transform: capitalize;
+
+
+}
+
+h5 {
+
+
+    color: rgb(87, 87, 87);
+    font-weight: 200;
+
+
+}
+
+.midel {
+    text-align: center;
+
+
+}
+
+.gap {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.size {
+    font-size: 50px;
+
+}
+
+.gaap {
+    margin-bottom: 100px;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.display-flix {
+    display: flex;
+    width: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: left;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+
+
+.half-width {
+    box-shadow: 10px 10px 80px gray;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    border-radius: 10px;
+}
+
+.rong {
+
+    background-color: rgb(119, 187, 189);
+}
+
+.roon {
+    background-color: rgb(255, 169, 182);
+
+}
+
+.ronn {
+    background-color: rgba(222, 152, 67, 0.403);
+}
+
+.pp {
+    font-size: 35px;
+    font-style: bold;
+}
+
+.df {
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.fd {
+    width: 50%;
+    padding-right: 10%;
+}
+
+.ll {
+    padding-left: 11%;
+}
+
+p {
+    text-align: justify;
+    color: rgb(54, 53, 53);
+}
+
+.fd img {
+    width: 80%;
+}
+
+.kk {
+    width: 50%;
+    padding-right: 17%;
+}
+
+.rr {
+    padding-left: 11%;
+}
+
+.kk img {
+    width: 120%;
+}
+
+.nn {
+    text-align: center;
+}
+
+.bf {
+    text-align: center;
+    color: blue;
+
+}
+
+.style {
+    font-size: 40px;
+    color: rgb(159, 85, 85);
+}
+
+.op {
+    text-align: center;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 12px 12px 12px 12px;
+
+}
+
+.aa {
+    color: azure;
+    margin-bottom: 15px;
+
+}
